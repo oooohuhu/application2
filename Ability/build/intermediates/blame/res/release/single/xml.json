@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_point.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_point.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_symbol.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_symbol.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_num_abc.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_num_abc.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_abc.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_abc.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_x.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_x.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_finish.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_finish.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\xml\\symbols_next.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\xml\\symbols_next.xml"
+    }
+]

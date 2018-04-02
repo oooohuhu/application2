@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\MultiImageSelector-1.2.aar\\54c57e18d0be8348eade243751db59b9\\res\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,155",
+                        "endColumns": "52,46,44",
+                        "endOffsets": "103,150,195"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Users\\xueqili\\Work\\YLTX\\MyApplication\\Ability\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\Users\\xueqili\\.gradle\\caches\\transforms-1\\files-1.1\\MultiImageSelector-1.2.aar\\0760aadb9457ad01dd825576176eb071\\res\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,155",
+                        "endColumns": "52,46,44",
+                        "endOffsets": "103,150,195"
+                    }
+                }
+            ]
+        }
+    ]
+}

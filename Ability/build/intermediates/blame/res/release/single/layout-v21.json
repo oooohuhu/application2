@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

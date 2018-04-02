@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\light_selector.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\light_selector.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_space.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_space.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dialog_loading.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\bg_dialog_loading.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\barcode_selector.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\barcode_selector.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_space_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_space_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_special_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_special_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_delete_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_delete_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_general_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_general_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_num_special_delete_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_num_special_delete_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_abc_key.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_abc_key.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_change.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_change.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\qrcode_selector.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\qrcode_selector.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_general_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_general_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6ea3479e14e1eecf0136445fb48bcb5a\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_pull_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_pull_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_general_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_general_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\mis_action_btn.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\MultiImageSelector-1.2.aar\\54c57e18d0be8348eade243751db59b9\\res\\drawable\\mis_action_btn.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\background_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\background_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\default_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\default_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_shift_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_shift_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\warning_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\warning_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_pull_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_pull_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_num_special_delete_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_num_special_delete_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\error_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\error_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_space_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_space_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_shift_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_shift_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_num_delete.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_num_delete.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\frame.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key2.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key2.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_general_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_general_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\info_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\info_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6ea3479e14e1eecf0136445fb48bcb5a\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_nom.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_nom.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6ea3479e14e1eecf0136445fb48bcb5a\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\bg_default_dialog.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\bg_default_dialog.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key3.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key3.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_123.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_123.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\confusing_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\confusing_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_abc_special_delete_press.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\keyboard_abc_special_delete_press.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_shift.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_shift.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\bg_close_position_dialog.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\bg_close_position_dialog.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\success_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\tastytoast-0.1.1.aar\\ee6805dd96282a77eabb3add1478e8c1\\res\\drawable\\success_toast.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_pull.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_pull.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6ea3479e14e1eecf0136445fb48bcb5a\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keyboard_key_delete.xml",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\drawable\\btn_keyboard_key_delete.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\6ea3479e14e1eecf0136445fb48bcb5a\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\ac66eede2771833aef4457fb794d156a\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]

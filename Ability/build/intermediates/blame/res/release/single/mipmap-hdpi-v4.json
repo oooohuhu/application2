@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_delete.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_nom.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_nom.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\space.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\space.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\abc_delete.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\abc_delete.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_delete_press.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_delete_press.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\abc_shift.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\abc_shift.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_123_nom.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_123_nom.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_123_press.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_123_press.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_space_press.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_space_press.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_delete_nom.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_delete_nom.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_space_nom.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_space_nom.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\safe_keyboard_icon.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\safe_keyboard_icon.png"
+    },
+    {
+        "merged": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\keyboard_abc_press.png",
+        "source": "F:\\kdgcwork\\MyApplication\\MyApplication\\Ability\\src\\main\\res\\mipmap-hdpi\\keyboard_abc_press.png"
+    }
+]
